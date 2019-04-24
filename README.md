@@ -8,7 +8,7 @@ my leetcode submissions
 |  4| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | hard |java|55ms|
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | medium |java|146ms|
 | 15 | [Three Sum](https://leetcode.com/problems/3sum/) | medium |java|28ms|
-|  |  |  |||
+|  69| [Sqrt](https://leetcode.com/problems/sqrtx/) | medium |java|1ms|
 |  |  |  |||
 |  |  |  |||
 |  |  |  |||
